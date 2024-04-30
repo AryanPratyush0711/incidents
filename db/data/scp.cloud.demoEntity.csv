@@ -1,0 +1,4 @@
+RequestId,RequestType,RequestorEmail,FirstName,LastName,GlobalRegion_praneeth,BusinessUnit_code,Function,Country_code,ExpectedDueDate,Priority,CreatedOnDate,Comments
+123e4567-e89b-12d3-a456-426614174000,Service Request,john.doe@example.com,John,Doe,US,BU01,Sales,US,2022-12-31,High,2022-10-31,Initial Request
+987e6543-e21b-98d6-a654-426614178900,Report Submission,jane.doe@example.com,Jane,Doe,UK,BU03,Accounting,UK,2022-12-15,Medium,2022-10-28,Submitted Yearly Report
+564e3210-e78b-56d1-a210-426614178500,Inquiry,michael.johnson@example.com,Michael,Johnson,JP,BU04,Recruiting,JP,2023-01-31,Low,2022-10-25,Looking for recruitment updates
